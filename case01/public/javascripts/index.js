@@ -1,7 +1,7 @@
 const btnPrevDate = document.querySelector(".btn-prevDate");
 const btnNextDate = document.querySelector(".btn-nextDate");
-const btnAddShow = document.querySelector(".btn-addShow");
 const myDate = document.querySelector(".myDate");
+const btnAddShow = document.querySelector(".btn-addShow");
 const bsOffCavas = new bootstrap.Offcanvas("#inputArea");
 const newSet = document.querySelector(".newSet");
 const updateSet = document.querySelector(".updateSet");
