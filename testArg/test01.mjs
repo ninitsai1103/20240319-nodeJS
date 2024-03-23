@@ -6,3 +6,5 @@ let clg = (content) => {
     }
 }
 clg(process.argv);
+
+// console.log(process.argv)
